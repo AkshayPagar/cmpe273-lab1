@@ -1,0 +1,17 @@
+================================================
+Output for 1st http_call.py:
+
+Date = Sat, 01 Sep 2018 08:51:46 GMT
+Date = Sat, 01 Sep 2018 08:51:47 GMT
+Date = Sat, 01 Sep 2018 08:51:48 GMT
+
+Process finished with exit code 0
+================================================
+Output for 2nd http_async_call.py:
+
+Date = Sat, 01 Sep 2018 08:54:10 GMT
+Date = Sat, 01 Sep 2018 08:54:10 GMT
+Date = Sat, 01 Sep 2018 08:54:10 GMT
+
+Process finished with exit code 0
+================================================
